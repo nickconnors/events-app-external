@@ -1,3 +1,6 @@
+//Jose Delgado
+//Justin Huntress
+
 'use strict';
 
 console.log(`process.env.SERVER = ${process.env.SERVER}`);
